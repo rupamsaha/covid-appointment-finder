@@ -1,0 +1,24 @@
+{
+  "name": "covid-vaccine-appointment-finder",
+  "version": "1.0.0",
+  "description": "Finc Covid appointment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupamsaha/covid-appointment-finder.git"
+  },
+  "author": "Rupam Saha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupamsaha/covid-appointment-finder/issues"
+  },
+  "homepage": "https://github.com/rupamsaha/covid-appointment-finder#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-schedule": "^2.0.0",
+    "puppeteer": "^9.1.1"
+  }
+}
